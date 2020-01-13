@@ -1,4 +1,4 @@
-# flutter_login_sample
+# Flutter Sample Login Screen
 
 Flutter application that demonstrates a Login/Sign-in Screen.
 
