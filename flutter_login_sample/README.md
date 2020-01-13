@@ -1,16 +1,10 @@
-# flutter_tutorial
+# flutter_login_sample
 
-A new Flutter application.
+Flutter application that demonstrates a Login/Sign-in Screen.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- [Tutorial: Flutter Login Screen Sample](https://www.tutorialkart.com/flutter/flutter-login-screen/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter, read our
+[Flutter Tutorials](https://www.tutorialkart.com/flutter/), which offers tutorials on Widgets, regularly used screens and different features of Flutter.
